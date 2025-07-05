@@ -5,8 +5,6 @@ import nltk
 import PyPDF2
 from io import BytesIO
 
-from numpy.f2py.auxfuncs import throw_error
-
 nltk.download('punkt')
 nltk.download('stopwords')
 
