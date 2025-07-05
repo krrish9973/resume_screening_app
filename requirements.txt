@@ -1,2 +1,6 @@
 nltk
+<<<<<<< HEAD
 scikit-learn
+=======
+scikit-learn
+>>>>>>> dc87c02c64b1c219626ca577fea6647ab99057c2
